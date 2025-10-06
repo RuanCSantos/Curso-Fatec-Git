@@ -1,0 +1,8 @@
+- git clone: copia o projeto
+- git status: lista de alterações
+- git add: aiciona arquivo pra ser commitado
+- git commit m: salva alterações
+- git log: histórico de commits
+- git push: sobe os arquivos para o servidor 
+- git branch: cria uma ramificação  da main
+- git checkout: navega entre branchs
